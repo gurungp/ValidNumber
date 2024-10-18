@@ -11,7 +11,6 @@ enum FSM_States {
     START, // these value represents the start positions of each state entries
     AFTER_MINUS,
     AFTER_DOT,
-  //  __VALID_END_STATES,
     SECOND_DIGIT_ONWARDS,
     MANTISSA,
     __LAST_STATE
